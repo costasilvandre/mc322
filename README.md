@@ -1,4 +1,4 @@
-# mc404
+# mc322
 
 Repositório criado para o desenvolvimento dos projetos da disciplina de programação orientada a objetos (MC322) da UNICAMP.
 
